@@ -1,6 +1,6 @@
-## basemap.at for Mapbox GL JS, QGIS, maputnik, ...
+# basemap.at for Mapbox GL JS, QGIS, maputnik, ...
 
-### basemap.at Verwaltungsgrundkarte Vektor Österreich
+## basemap.at Verwaltungsgrundkarte Vektor Österreich
 
 `basemap.at Vektor` is available:
 * offline as ESRI VTPK [https://www.data.gv.at/katalog/dataset/b694010f-992a-4d8e-b4ab-b20d0f037ff0](https://www.data.gv.at/katalog/dataset/b694010f-992a-4d8e-b4ab-b20d0f037ff0)
@@ -8,7 +8,7 @@
 
 **As far as I know there is no way to use it with any tools except ArcGIS Pro**
 
-### Make it work
+## Make it work
 
 _**Disclaimer:**_ tiles have not been changed nor are they hosted as a shadow copy somewhere else. They are served directly from `https://maps.wien.gv.at`.
 
@@ -59,8 +59,10 @@ Make sure to replace `<YOUR-TOKEN-GOES-HERE>` with your actual token.
 </html>
 ```
 
+![mapbox gl js](img/mapbox-gl-js-screenshot.jpg)
 
-### Make it work - QGIS
+
+## Make it work - QGIS
 
 Use the [Vector Tiles Reader](https://plugins.qgis.org/plugins/vector_tiles_reader/) plugin.
 
@@ -73,7 +75,7 @@ Sometimes I had to remove the layers and add them again.
 ![QGIS Vector Tiles Reader map](img/qgis-map.png)
 
 
-### Make it work - maputik
+## Make it work - maputik
 
 Create your own stlyes with [maputnik](https://maputnik.github.io/):
 
