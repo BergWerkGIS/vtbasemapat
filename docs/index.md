@@ -6,7 +6,7 @@
 * offline as ESRI VTPK [https://www.data.gv.at/katalog/dataset/b694010f-992a-4d8e-b4ab-b20d0f037ff0](https://www.data.gv.at/katalog/dataset/b694010f-992a-4d8e-b4ab-b20d0f037ff0)
 * online as ESRI Vector Tile Cache [https://www.data.gv.at/katalog/dataset/a73befc7-575f-48cb-8eb9-b05172a8c9e3](https://www.data.gv.at/katalog/dataset/a73befc7-575f-48cb-8eb9-b05172a8c9e3)
 
-**As far as I know there is no way to use it with any tools except ~ArcGIS Pro~ ESRI based ones.**
+**As far as I know there is no way to use it with any tools except (ArcGIS Pro) ESRI based ones.**
 
 ## Make it work
 
