@@ -1,4 +1,4 @@
-# basemap.at for Mapbox GL JS, QGIS, maputnik, ...
+# basemap.at for Mapbox GL JS, QGIS, Maputnik, ...
 
 ## basemap.at Verwaltungsgrundkarte Vektor Österreich
 
@@ -75,9 +75,9 @@ Sometimes I had to remove the layers and add them again.
 ![QGIS Vector Tiles Reader map](img/qgis-map.png)
 
 
-## Make it work - maputik
+## Make it work - Maputnik
 
-Create your own stlyes with [maputnik](https://maputnik.github.io/):
+Create your own stlyes with [Maputnik](https://maputnik.github.io/):
 
 * Click `Open`
 * Paste the style URL into `Load from URL`
